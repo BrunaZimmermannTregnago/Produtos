@@ -1,0 +1,18 @@
+{
+    "products":[{
+        "id": 1,
+        "name": "Caneta BIC",
+        "price": 1.75
+    },
+    {
+        "id": 2,
+        "name": "Notebook Acer",
+        "price": 3510.00
+    },
+    {
+        "id": 3,
+        "name": "Samsung J8",
+        "price": 1570.90
+    }
+    ]
+}
