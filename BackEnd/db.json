@@ -1,18 +1,29 @@
 {
-    "products":[{
-        "id": 1,
-        "name": "Caneta BIC",
-        "price": 1.75
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC",
+      "price": 1.75
     },
     {
-        "id": 2,
-        "name": "Notebook Acer",
-        "price": 3510.00
+      "id": 2,
+      "name": "Notebook Acer",
+      "price": 3510
     },
     {
-        "id": 3,
-        "name": "Samsung J8",
-        "price": 1570.90
+      "id": 3,
+      "name": "Samsung J8",
+      "price": 1570.9
+    },
+    {
+      "name": "Produto",
+      "price": 1.22,
+      "id": 4
+    },
+    {
+      "name": "Produto da pag",
+      "price": "22",
+      "id": 5
     }
-    ]
+  ]
 }
